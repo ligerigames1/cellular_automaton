@@ -1,1 +1,1 @@
-Cellular automaton according to the rules 110
+Cellular automaton in python
